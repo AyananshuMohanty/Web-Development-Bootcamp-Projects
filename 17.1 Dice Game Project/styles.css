@@ -22,6 +22,18 @@ h1 {
   color: #4ECCA3;
 }
 
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
